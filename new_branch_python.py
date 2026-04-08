@@ -9,3 +9,5 @@ world = world.plot.scatter(
     "Mortality rate, infant (per 1,000 live births)",
     "GDP per capita (constant 2010 US$)",
 )
+
+# Did this work? I am writing this on 4/8/2026
